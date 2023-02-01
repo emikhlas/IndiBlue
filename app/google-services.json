@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573768470918",
+    "firebase_url": "https://indigofera-35d9d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "indigofera-35d9d",
+    "storage_bucket": "indigofera-35d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573768470918:android:4a0f7ad58eef27e1679c07",
+        "android_client_info": {
+          "package_name": "com.example.indigofera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573768470918-fnqorita1rov3jdeenkv3b7brt2t9ecs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqsn-RZOuQ_KiCFNDUjlyTFldJwToIr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573768470918-fnqorita1rov3jdeenkv3b7brt2t9ecs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
